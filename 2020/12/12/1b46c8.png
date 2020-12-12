@@ -1,0 +1,6 @@
+[/Script/Engine.RendererOverrideSettings]
+r.VSync=1
+grass.DiscardDataOnLoad=1
+
+[/Script/Engine.RendererOverrideSettings]
+FX.MaxCPUParticlesPerEmitter=0
