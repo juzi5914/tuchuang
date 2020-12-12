@@ -1,0 +1,3 @@
+[/Script/Engine.RendererOverrideSettings]
+r.VSync=1
+grass.DiscardDataOnLoad=1
