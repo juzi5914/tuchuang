@@ -1,0 +1,8 @@
+[/Script/Engine.RendererSettings]
+r.CharacterDiffuseOffset=10
+r.CharacterDiffusePower=10
+r.CharacterMinShadowFactor=50
+
+
+
+
